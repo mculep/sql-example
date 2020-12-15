@@ -24,4 +24,5 @@
 // - dialect: postgres ( Will always be postgres as long as you're working with postgres
 
 // -   npx sequelize-cli model:generate --name Pets --attributes name:string,breed:string
+// ------- Create a name and rename the attributes
 // -   npx sequelize-cli db:migrate
